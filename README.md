@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Irfan
+- 👀 I’m interested in Data Science and learning more skills in the Data Science field.
+- 🌱 I’m currently learning Python and C+.
